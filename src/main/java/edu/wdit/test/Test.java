@@ -7,5 +7,6 @@ public class Test {
 
     public static void versionControl() {
         //测试更新内容
+        System.out.println("test ok!");
     }
 }
